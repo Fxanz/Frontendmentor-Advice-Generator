@@ -85,7 +85,7 @@ body {
 }
 @media screen and (max-width: 425px) {
   .container {
-    width: 22rem;
+    width: 21rem;
   }
   .quote {
     font-size: 20px;
@@ -93,9 +93,27 @@ body {
 }
 @media screen and (max-width: 375px) {
   .container {
-    width: 20rem;
+    width: 19rem;
   }
   .icon {
     padding: 0.7rem;
+  }
+}
+@media screen and (max-width: 340px) {
+  .container {
+    width: 17rem;
+  }
+}
+@media screen and (max-width: 305px) {
+  .container {
+    width: 15rem;
+  }
+  .quote{
+    font-size: 17px;
+  }
+  .icon{
+    bottom: -5%;
+    width: 2.3rem;
+    padding: 0.5rem;
   }
 }
