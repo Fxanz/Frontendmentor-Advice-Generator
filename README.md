@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://fxanz.github.io/Frontendmentor-NFT-Preview-Card-Component/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/advice-generator-app-using-css-flexbox-DHcxIAfP1M)
+- Live Site URL: [Live Site](https://fxanz.github.io/Frontendmentor-Advice-Generator/)
 
 ## My process
 
