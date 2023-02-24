@@ -3,7 +3,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: hsl(193, 38%, 86%);
   font-family: "Manrope", sans-serif;
 }
 img {
@@ -41,6 +40,7 @@ body {
   text-align: center;
   margin-bottom: 1rem;
   font-size: 30px;
+  color: hsl(193, 38%, 86%);
 }
 .icon {
   display: flex;
@@ -74,6 +74,9 @@ body {
     box-shadow: 0px 0px 44px -4px rgba(82, 255, 168, 0.75);
     transform: scale(1.1) rotate(-90deg);
   }
+  .quote {
+    color: hsl(193, 38%, 86%);
+  }
 }
 @media screen and (max-width: 500px) {
   .container {
@@ -84,15 +87,15 @@ body {
   .container {
     width: 22rem;
   }
-  .quote{
+  .quote {
     font-size: 20px;
   }
 }
 @media screen and (max-width: 375px) {
-  .container{
+  .container {
     width: 20rem;
   }
-  .icon{
-    padding:.7rem;
+  .icon {
+    padding: 0.7rem;
   }
 }
